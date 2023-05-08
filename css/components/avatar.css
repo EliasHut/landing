@@ -1,0 +1,15 @@
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ccc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    overflow: hidden;
+
+}

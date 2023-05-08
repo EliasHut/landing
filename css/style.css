@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;600&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Lato:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+
+body {
+    font-family: 'IBM', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'IBM', sans-serif;
+    font-weight: 700;
+    color: #333;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
